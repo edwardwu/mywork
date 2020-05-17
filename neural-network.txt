@@ -1,0 +1,60 @@
+Home page: https://www.3blue1brown.com/
+Brought to you by you: http://3b1b.co/nn2-thanks
+And by Amplify Partners.
+
+For any early stage ML startup founders, Amplify Partners would love to hear from you via 3blue1brown@amplifypartners.com
+
+To learn more, I highly recommend the book by Michael Nielsen
+http://neuralnetworksanddeeplearning....
+The book walks through the code behind the example in these videos, which you can find here: 
+https://github.com/mnielsen/neural-ne...
+
+MNIST database:
+http://yann.lecun.com/exdb/mnist/
+
+Also check out Chris Olah's blog: 
+http://colah.github.io/
+His post on Neural networks and topology is particular beautiful, but honestly all of the stuff there is great.
+
+And if you like that, you'll *love* the publications at distill:
+https://distill.pub/
+
+For more videos, Welch Labs also has some great series on machine learning: 
+https://youtu.be/i8D90DkCLhI
+https://youtu.be/bxe2T-V8XRs
+
+"But I've already voraciously consumed Nielsen's, Olah's and Welch's works", I hear you say.  Well well, look at you then.  That being the case, I might recommend that you continue on with the book "Deep Learning" by Goodfellow, Bengio, and Courville.
+
+Thanks to Lisha Li (@lishali88) for her contributions at the end, and for letting me pick her brain so much about the material.  Here are the articles she referenced at the end:
+https://arxiv.org/abs/1611.03530
+https://arxiv.org/abs/1706.05394
+https://arxiv.org/abs/1412.0233
+
+Music by Vincent Rubinetti: 
+https://vincerubinetti.bandcamp.com/a...
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe, and click the bell to receive notifications (if you're into that).
+
+If you are new to this channel and want to see more, a good place to start is this playlist: http://3b1b.co/recommended
+
+Various social media stuffs:
+Website: https://www.3blue1brown.com
+Twitter: https://twitter.com/3Blue1Brown
+Patreon: https://patreon.com/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Reddit: https://www.reddit.com/r/3Blue1Brown
+Caption author (Chinese (China))
+Joy New
+Caption author (Portuguese)
+ensinoeinformacao
+Caption author (English)
+SciTech Guru
+Caption author (Turkish)
+hasan basri Akçay
+Caption author (Chinese (Taiwan))
+陳家錡
+Category
+Education
+
