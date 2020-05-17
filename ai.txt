@@ -1,0 +1,2 @@
+https://github.com/JustinYuu/Deeplearning-study
+https://github.com/zalandoresearch/fashion-mnist
